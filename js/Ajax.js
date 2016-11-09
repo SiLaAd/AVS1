@@ -152,6 +152,3 @@ function receive(text) {
         throw err;
     }
 }
-
-
-
